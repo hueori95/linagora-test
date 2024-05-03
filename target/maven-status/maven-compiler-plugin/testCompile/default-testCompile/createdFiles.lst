@@ -1,0 +1,9 @@
+com/linagora/util/ResourceLoader.class
+com/linagora/tests/AbstractTest.class
+com/linagora/tests/linagora/Logintest.class
+com/linagora/util/JsonUtil.class
+com/linagora/tests/linagora/model/LoginTestData.class
+com/linagora/util/Constants.class
+com/linagora/util/Demo.class
+com/linagora/listener/TestListener.class
+com/linagora/util/Config.class
